@@ -53,4 +53,5 @@ A Deep Learning-based Next Word Prediction system that predicts the next possibl
 - Interactive Streamlit interface
 
 ## Author
+Shirisha TS
 Computer Science and Engineering (Data Science)
